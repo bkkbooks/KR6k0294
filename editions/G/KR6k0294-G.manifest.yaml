@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6k0294/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0294/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 人生之最後
+  identifiers:
+    krp: KR6k0294
+    cbeta: G104n2279
+    cbeta_old_id: G104n2279
+    authorityid: CA0008644
+    json_key: G2279
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2279.xml
+    old_id: G104n2279
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0294_000-G.yaml, hash: 'sha256:a8ed7c10e6869a7df8fa5b9b62041995755378764b42e9548dbee1fce6d143a6'}
+  - {seq: 1, filename: KR6k0294_001-G.yaml, hash: 'sha256:9df9a810675d628963f079a05ab1c8afe66decffbadeab8c60341dc33bd0e9c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0294_000-G.markers.yaml, hash: 'sha256:fc30c6e0ee6f24bffe05d50dda3880858ddca25b62e32b3d5914481135f474a4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0294_001-G.markers.yaml, hash: 'sha256:41e2bc8acb248f88533f79645b971b177e49375dca112bde093ca57bc14f74ac'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 1902
+  label: 人生之最後
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-2
+    span:
+    - body
+    - 155
+    - 155
+  label: 第一章　緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 第二章　病重時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-4
+    span:
+    - body
+    - 622
+    - 622
+  label: 第三章　臨終時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-5
+    span:
+    - body
+    - 1164
+    - 1164
+  label: 第四章　命終後一日
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-6
+    span:
+    - body
+    - 1472
+    - 1472
+  label: 第五章　薦亡等事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-7
+    span:
+    - body
+    - 1725
+    - 1725
+  label: 第六章　勸請發起臨終助念會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-8
+    span:
+    - body
+    - 1767
+    - 1767
+  label: 第七章　結語
+  type: mulu
+  level: 1
+hash: sha256:1c2db0e3a077afc2034b468f0171cb5c446986caba1a0c84813f2a44f11417b5

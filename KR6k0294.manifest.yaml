@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR6k0294/v1
+canonical_location: https://kanripo.org/bkk/KR6k0294/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 人生之最後
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2279.xml
+    old_id: G104n2279
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0294_000.yaml, hash: 'sha256:a8ed7c10e6869a7df8fa5b9b62041995755378764b42e9548dbee1fce6d143a6'}
+  - {seq: 1, filename: KR6k0294_001.yaml, hash: 'sha256:1380a3d503ae27dc0faffad46266e2318d637afbb98d40421319ffeaf763479a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0294_001.markers.yaml, hash: 'sha256:8c675a5420c050c705b9fb16f72057bee328d0279505e5ee674879c605aa1741'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 1902
+  label: 人生之最後
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-2
+    span:
+    - body
+    - 155
+    - 155
+  label: 第一章　緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 第二章　病重時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-4
+    span:
+    - body
+    - 622
+    - 622
+  label: 第三章　臨終時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-5
+    span:
+    - body
+    - 1164
+    - 1164
+  label: 第四章　命終後一日
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-6
+    span:
+    - body
+    - 1472
+    - 1472
+  label: 第五章　薦亡等事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-7
+    span:
+    - body
+    - 1725
+    - 1725
+  label: 第六章　勸請發起臨終助念會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0294_G_001-mulu-8
+    span:
+    - body
+    - 1767
+    - 1767
+  label: 第七章　結語
+  type: mulu
+  level: 1
+hash: sha256:1da9d5145bf6e4b9bd880a9b928ef533965d4272b09aeb4ea2471f15fdee77a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G
